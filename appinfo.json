@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "acger@yahoo.de",
+    "longName": "4Lini",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "4Lini",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "20088ec0-4f69-4dbf-91e7-e449715f9b7d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
